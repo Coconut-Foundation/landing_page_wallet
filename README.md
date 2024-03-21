@@ -3,14 +3,23 @@
 
 <h2>Instalação</h2>
 <p>Para utilizar nosso aplicativo é muito fácil, basta você nos procurar na Play Store por "Carteirinha Estudantil",<br>
-logo após isto, você verá nossa página ![Imagem da Carteirinha Estudantil na Play Store](img\Designer (1).jpeg)</p>
+logo após isto, você verá nossa página ![Imagem da Carteirinha Estudantil na Play Store](https://github.com/Coconut-Foundation/landing_page_wallet/blob/main/images/Designer%20(1).jpeg)</p>
 
 <h2>Como Usar</h2>
-<p>Acesse o app em seu aparelho smartphone, </p>
+<ol>
+  <li>Acesse o app em seu aparelho smartphone;</li> 
+  <li>Insira o seu usuário e senha fornecidos pela sua instituição estudantil;</li>
+  <li>Pronto, você já pode utilizar sua carteirinha estudantil!</li>
+<ol>
 
 <h2>Recursos Principais</h2>
-Lista dos principais recursos oferecidos pelo aplicativo.
-Breve explicação sobre cada recurso.
+<p>Dentre nossos principais recursos estão:</p>
+<ol>
+  <li>Facilidade de uso;</li>
+  <li>Segurança dos usuários;</li>
+  <li>Compatibilidade com aparelhos mais antigos;</li>
+  <li>E outras várias!</li>
+</ol>
 
 <h2>Contribuição</h2>
 <p>Caso você seja um de nossos usuários e possua uma ideia sobre como podemos melhorar ou tem sofrido com um bug.<br>
@@ -27,16 +36,13 @@ Entre em contato conosco pelo e-mail: <ideiassupimpas@carteirinha.com></p>
 
 
 <h2>Licença</h2>
-Informações sobre a licença do aplicativo.
+Este aplicativo pertence à Coconut Foundation, todos os direitos reservados.
 
 <h2>Suporte</h2>
 <p>Caso esteja enfrentando problemas ao utilizar nossa aplicação, entre em contato conosco pelo e-mail: <suporte@carteirinha.com></p>
 
-<h2>Exemplos</h2>
-Caso aplicável, exemplos de código ou screenshots para ajudar os usuários a entender melhor como usar o aplicativo.
-
 <h2>Histórico de Versões</h2>
-Registro de alterações e melhorias feitas em cada versão do aplicativo.
+<p>Versão atual: 0.0</p>
 
 <h2>Notas Adicionais</h2>
 Informamos para os devidos fins, que a landing page se refere a uma atividade conjunta de Projeto Integrador II e de Construção de Software.

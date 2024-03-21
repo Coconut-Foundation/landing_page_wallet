@@ -10,7 +10,7 @@ logo após isto, você verá nossa página ![Imagem da Carteirinha Estudantil na
   <li>Acesse o app em seu aparelho smartphone;</li> 
   <li>Insira o seu usuário e senha fornecidos pela sua instituição estudantil;</li>
   <li>Pronto, você já pode utilizar sua carteirinha estudantil!</li>
-<ol>
+</ol>
 
 <h2>Recursos Principais</h2>
 <p>Dentre nossos principais recursos estão:</p>

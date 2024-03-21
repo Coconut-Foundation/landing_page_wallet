@@ -1,5 +1,5 @@
 <h1>Carteirinha Estudantil</h1>
-Descrição breve do aplicativo e seu propósito.
+<p>Aa carteirinha estudantil é a forma mais fácil de ajudar você aluno de ensino básico, médio e superior a obter os benefícios de uma carteirinha estudantil.</p>
 
 <h2>Instalação</h2>
 Instruções sobre como instalar o aplicativo.
@@ -15,7 +15,7 @@ Breve explicação sobre cada recurso.
 
 <h2>Contribuição</h2>
 <p>Caso você seja um de nossos usuários e possua uma ideia sobre como podemos melhorar ou tem sofrido com um bug.<br>
-Entre em contato conosco pelo e-mail: ideiassupimpas@carteirinha.com</p>
+Entre em contato conosco pelo e-mail: [ideiassupimpas@carteirinha.com]</p>
 
 <h2>Autores</h2>
 <ol>
@@ -31,7 +31,7 @@ Entre em contato conosco pelo e-mail: ideiassupimpas@carteirinha.com</p>
 Informações sobre a licença do aplicativo.
 
 <h2>Suporte</h2>
-<p>Caso esteja enfrentando problemas ao utilizar nossa aplicação, entre em contato conosco pelo e-mail: suporte@carteirinha.com</p>
+<p>Caso esteja enfrentando problemas ao utilizar nossa aplicação, entre em contato conosco pelo e-mail: [suporte@carteirinha.com]</p>
 
 <h2>Exemplos</h2>
 Caso aplicável, exemplos de código ou screenshots para ajudar os usuários a entender melhor como usar o aplicativo.

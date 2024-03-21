@@ -3,7 +3,7 @@
 
 <h2>Instalação</h2>
 <p>Para utilizar nosso aplicativo é muito fácil, basta você nos procurar na Play Store por "Carteirinha Estudantil",<br>
-logo após isto, você verá nossa página <img width=200px height=200px src="https://github.com/Coconut-Foundation/landing_page_wallet/blob/main/images/Designer%20(1).jpeg" alt="Imagem da Carteirinha Estudantil na Play Store"></p>
+logo após isto, você verá nossa página:<br> <img width=200px height=200px src="https://github.com/Coconut-Foundation/landing_page_wallet/blob/main/images/Designer%20(1).jpeg" alt="Imagem da Carteirinha Estudantil na Play Store"></p>
 
 <h2>Como Usar</h2>
 <ol>

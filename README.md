@@ -14,30 +14,31 @@ Lista dos principais recursos oferecidos pelo aplicativo.
 Breve explicação sobre cada recurso.
 
 <h2>Contribuição</h2>
-<p>Caso você seja um de nossos usuários e tenha alguma ressalva, está em dificuldades, possui uma ideia sobre como podemos melhorar ou tem sofrido com um bug.<br>
-Entre em contato conosco pelo e-mail: carteirinha@carteirinha.com</p>
+<p>Caso você seja um de nossos usuários e possua uma ideia sobre como podemos melhorar ou tem sofrido com um bug.<br>
+Entre em contato conosco pelo e-mail: ideiassupimpas@carteirinha.com</p>
 
 <h2>Autores</h2>
 <ol>
   <li>Aline Yuka Noguti</li>
+  <li>Eduardo Albuquerque Ribeiro</li>
+  <li>Keren Apuque Cardoso de Morais</li>
+  <li>Renato Augusto Platz Guimarães Neto</li>
+  <li>Vinícius Margonar</li>
 </ol>
 
 
-
-Licença
+<h2>Licença</h2>
 Informações sobre a licença do aplicativo.
 
-Suporte
-Formas de obter suporte técnico ou enviar feedback sobre o aplicativo.
+<h2>Suporte</h2>
+<p>Caso esteja enfrentando problemas ao utilizar nossa aplicação, entre em contato conosco pelo e-mail: suporte@carteirinha.com</p>
 
-Exemplos
+<h2>Exemplos</h2>
 Caso aplicável, exemplos de código ou screenshots para ajudar os usuários a entender melhor como usar o aplicativo.
 
-Histórico de Versões
+<h2>Histórico de Versões</h2>
 Registro de alterações e melhorias feitas em cada versão do aplicativo.
 
-Notas Adicionais
-Qualquer informação adicional que você julgue relevante para os usuários do aplicativo.
+<h2>Notas Adicionais</h2>
+Informamos para os devidos fins, que a landing page se refere a uma atividade conjunta de Projeto Integrador II e de Construção de Software.
 
-Agradecimentos
-Reconhecimento a quaisquer pessoas ou organizações que tenham contribuído para o desenvolvimento do aplicativo.

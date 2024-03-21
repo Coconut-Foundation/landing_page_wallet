@@ -1,13 +1,12 @@
 <h1>Carteirinha Estudantil</h1>
-<p>Aa carteirinha estudantil é a forma mais fácil de ajudar você aluno de ensino básico, médio e superior a obter os benefícios de uma carteirinha estudantil.</p>
+<p>A carteirinha estudantil é a forma mais fácil de ajudar você aluno de ensino básico, médio e superior a obter os benefícios de uma carteirinha estudantil.</p>
 
 <h2>Instalação</h2>
-Instruções sobre como instalar o aplicativo.
-Requisitos do sistema, se houver.
+<p>Para utilizar nosso aplicativo é muito fácil, basta você nos procurar na Play Store por "Carteirinha Estudantil",<br>
+logo após isto, você verá nossa página ![Imagem da Carteirinha Estudantil na Play Store](img\Designer (1).jpeg)</p>
 
 <h2>Como Usar</h2>
-<p>Para utilizar nosso aplicativo é muito fácil, basta você nos procurar na Play Store por "Carteirinha Estudantil",<br>
-logo após isto, você verá nossa página [![Imagem da Carteirinha Estudantil na Play Store](img\Designer (1).jpeg)]</p>
+<p>Acesse o app em seu aparelho smartphone, </p>
 
 <h2>Recursos Principais</h2>
 Lista dos principais recursos oferecidos pelo aplicativo.

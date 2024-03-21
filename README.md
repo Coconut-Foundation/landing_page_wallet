@@ -14,11 +14,15 @@ Lista dos principais recursos oferecidos pelo aplicativo.
 Breve explicação sobre cada recurso.
 
 <h2>Contribuição</h2>
-<p>Caso você seja um de nossos usuários e tenha alguma ressalva, está em dificuldades, possui uma ideia sobre como podemos melhorar ou mesmo tem sofrido com um bug.<br>
+<p>Caso você seja um de nossos usuários e tenha alguma ressalva, está em dificuldades, possui uma ideia sobre como podemos melhorar ou tem sofrido com um bug.<br>
 Entre em contato conosco pelo e-mail: carteirinha@carteirinha.com</p>
 
-Autores
-Nomes e informações de contato dos membros da equipe que desenvolveram o aplicativo.
+<h2>Autores</h2>
+<ol>
+  <li>Aline Yuka Noguti</li>
+</ol>
+
+
 
 Licença
 Informações sobre a licença do aplicativo.

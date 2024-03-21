@@ -7,7 +7,7 @@ Requisitos do sistema, se houver.
 
 <h2>Como Usar</h2>
 <p>Para utilizar nosso aplicativo é muito fácil, basta você nos procurar na Play Store por "Carteirinha Estudantil",<br>
-logo após isto, você verá nossa página !(https://drive.google.com/file/d/1mCQdZVluz3YQIz--FlowOtU04qKqeOXm/view?usp=sharing "Página da Carteirinha Estudantil na Play Store")</p>
+logo após isto, você verá nossa página [![Imagem da Carteirinha Estudantil na Play Store](img\Designer (1).jpeg)]</p>
 
 <h2>Recursos Principais</h2>
 Lista dos principais recursos oferecidos pelo aplicativo.
